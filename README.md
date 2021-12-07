@@ -1,2 +1,2 @@
 # Emoji-dictionary-react
-Created with CodeSandbox
+Created withCodeSandbox Do you know what your favourite emoji is called?If not.Check this out
